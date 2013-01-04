@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">账号本</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_main">账号本系统</string>
+    <string name="login">登    录</string>
+    <string name="reset">重    置</string>
+    <string name="autoLogin">自动登录</string>
+    <string name="remainPassword">记住密码</string>
+    <string name="username">账号：</string>
+    <string name="password">密码：</string>
+    <string name="logodes">AirTeam专注、专心、专业</string>
+
+</resources>
